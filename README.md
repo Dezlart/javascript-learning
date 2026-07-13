@@ -1,2 +1,30 @@
-# javascript-learning
-My JavaScript learning progress, exercises, notes and mini-projects
+# JavaScript Learning
+
+Мой прогресс в изучении JavaScript и подготовке к full-stack TypeScript-разработке.
+
+## Текущий этап
+
+Изучаю основы JavaScript по Metanit.
+
+## Прогресс
+
+### Основы JavaScript
+
+- [x] Начало работы с JavaScript
+- [x] Типы данных
+- [x] Арифметические операторы
+- [ ] Поразрядные операции
+- [ ] Операции сравнения
+- [ ] Условные конструкции
+- [ ] Циклы
+- [ ] Функции
+- [ ] Массивы
+- [ ] Объекты
+
+## Структура репозитория
+
+- `exercises` — учебные задачи
+- `notes` — мои заметки
+- `journal` — дневник обучения
+- `mini-projects` — небольшие проекты
+- `roadmap` — дорожная карта обучения
